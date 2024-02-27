@@ -1,6 +1,5 @@
 pandas == 1.3.4
 numpy  == 1.20.3
 streamlit
-pickle
 scikit-sklearn
 pip == 21.2.4
